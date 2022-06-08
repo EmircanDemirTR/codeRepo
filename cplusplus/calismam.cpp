@@ -47,7 +47,7 @@ cout<<"D2 dersinin kodu "<<D2.getKod()<<", adi "<<D2.getAd()<<"'dir."<<endl;
 
 cout<<"Dersin kodunu girin: ";
 cin>>yenikod;
-cout<<endl<<"Dersin adini girin girin: ";
+cout<<endl<<"Dersin adini girin: ";
 getline(cin, yeni);
 
 cout<<yeni;
